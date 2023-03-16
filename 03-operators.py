@@ -93,5 +93,3 @@ print(k)
 l = 5
 
 l <<= 3
-
-print(l)
