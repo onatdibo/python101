@@ -1,38 +1,22 @@
-# The NeuralNine Python Self-Study Curriculum (4 Weeks)
+<h1 align=center>Python 101</h1>
 
-This little self-study Python curriculum shall help you to stay structured and organized while learning Python concepts from beginner to advanced.
+## Week One - Beginner Level (1-3 Hours / Day)  
 
-## Little Side-Note
-
-The curriculum is meant to be worked through in four weeks (considering the recommended daily time investment, which you will find in the respective week). However, it is understandable if some programmers need more time than that, to digest this amount of knowledge. So don't judge yourself, if you feel overwhelmed with the four week time frame. Likewise, it is understandable that some people will understands concept way faster and will be able to finish the whole curriculum in a single week. If you belong to those people, don't let the recommended time frame limit you.
-
-## Week One - Beginner Level (1-3 Hours / Day)
-
-You can use whatever resources you like to learn those concepts. If you want to use NeuralNine ressources, check out the following two links:
-
-YouTube Playlist: https://bit.ly/3aPFRZa
-Python Bible Book: https://www.neuralnine.com/books/
-
-| Day | Concept | Summary |
-| ------ | ------ | ------ |
-| 1 | Hello World | Learn how to output basic texts. | ✔ | 
+| Day | Concept | Summary | Completion |
+| ------ | ------ | ------ | ------ |
+| 1 | Hello World | Learn how to output basic texts. | ✔ |
 | 1 | Data Types | Learn about variables and about the different data types. | ✔ |
-| 1 | Operators | Use operators to perform actions with / on data and objects. | |
-| 2 | User Input | Accept user input during runtime. | |
-| 2 | Conditions | Learn about if, elif and else statements. | |
-| 3 | Loops | Learn about while and for loops and how to use them. | |
-| 3 | Collections | Learn about lists, tuples and dictionaries. |
-| 4 | Functions | Define your own functions with different parameters. |
-| 5 | Exception Handling | Handle exceptions and errors during runtime. |
-| 6 | File Operators | Write into and read from files. |
-| 7 | String Functions | Advanced string formatting and processing. |
+| 1 | Operators | Use operators to perform actions with / on data and objects. |  |
+| 2 | User Input | Accept user input during runtime. |  |
+| 2 | Conditions | Learn about if, elif and else statements. |  |
+| 3 | Loops | Learn about while and for loops and how to use them. |  |
+| 3 | Collections | Learn about lists, tuples and dictionaries. |  |
+| 4 | Functions | Define your own functions with different parameters. |  |
+| 5 | Exception Handling | Handle exceptions and errors during runtime. |  |
+| 6 | File Operators | Write into and read from files. |  |
+| 7 | String Functions | Advanced string formatting and processing. |  |
 
 ## Week Two - Intermediate Level (2-4 Hours / Day)
-
-You can use whatever resources you like to learn those concepts. If you want to use NeuralNine ressources, check out the following two links:
-
-YouTube Playlist: https://bit.ly/3dJm8w7
-Python Bible Book: https://www.neuralnine.com/books/
 
 | Day | Concept | Summary |
 | ------ | ------ | ------ |
@@ -47,14 +31,7 @@ Python Bible Book: https://www.neuralnine.com/books/
 | 7 | XML & JSON | Learn to process and create XML and JSON files. |
 | Opt. | Regular Expressions | Filter and change texts using regular expressions. |
 
-Opt = Optional.
-
 ## Week Three - Advanced Level (2-5 Hours / Day)
-
-You can use whatever resources you like to learn those concepts. If you want to use NeuralNine ressources, check out the following two links:
-
-YouTube Playlist 1: https://bit.ly/3bCT3zS
-YouTube Playlist 2: https://bit.ly/2NF1CSy
 
 | Day | Concept | Summary |
 | ------ | ------ | ------ |
@@ -84,12 +61,6 @@ You will have to choose your own projects, but here are some links that might in
 * NeuralNine Computer Vision Projects Playlist: https://bit.ly/3sv0oZb
 * NeuralNine GitHub: https://github.com/NeuralNine
 
-## Links
+---
 
-I hope this curriculum helps you to find a structured way to learn Python. If you guys like it and the feedback is positive, I will definitely do another curriculum for learning data science, machine learning, finance, cyber security etc.
-
-NeuralNine YouTube Channel: https://www.youtube.com/c/NeuralNine/
-Python Bible Book Series: https://www.neuralnine.com/books/
-NeuralNine Twitter: https://twitter.com/NeuralNine
-NeuralNine Patreon: https://www.patreon.com/neuralnine
-NeuralNine Instagram: https://www.instagram.com/neuralnine/
+Resource: https://github.com/NeuralNine/python-curriculum
