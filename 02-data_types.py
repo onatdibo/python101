@@ -20,7 +20,9 @@ range(6)
 {"modelName": "volvo", "year": 2023}
 
 # set
-{"banana", "apple", "cherry"}
+x = {"banana", "apple", "cherry"}
 
 # bool
 True
+
+print(x)
