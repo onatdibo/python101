@@ -14,6 +14,7 @@ for x in range(6):
 # contune - break
 
 # contiune
+
 for x in range(1, 5):
     if x == 4:
         continue
