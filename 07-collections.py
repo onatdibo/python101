@@ -55,3 +55,14 @@ print(test)
 
 test2 = tuple(("john", "adriana")) # created new tupple
 print(test2)
+
+
+# tupple update
+
+changeTupple = ("tupple1", "tupple2", "tupple3")
+
+new = list(changeTupple) # changed to list
+
+new[1] = "tupple2.2" # new item
+
+print(new)
