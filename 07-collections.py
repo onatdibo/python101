@@ -31,8 +31,23 @@ print(fruits)
 
 print(len(fruits)) # To determine how many items a tuple has, use the len() function:
 
+# Unpacking a Tuple
+
+(red, yellow, red2) = fruits
+
+print("Unpacking:", red, yellow, red2)
+
+
 # access the tupple
 print(fruits[1])
+
+# Change Tuple Values
+
+names = ("jack", "toretto")
+
+changeTupple = list(names)
+print("Changed Tupple: ",changeTupple) # changed to list
+
 
 test = (1, True, "Hf", 2.4) #  tupples different data types
 print(test)
