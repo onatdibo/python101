@@ -82,10 +82,11 @@ print(cars)
 # To add items from another set into the current set, use the update() method.
 
 cars2 = {"toyota", "nissan"}
+cars3 = {"reno", "audi"}
 
-cars.update(cars2)
+cars2.update(cars3)
 
-print(cars)
+print(cars2)
 
 
 # 4- DICTIONARY
