@@ -66,3 +66,24 @@ new = list(changeTupple) # changed to list
 new[1] = "tupple2.2" # new item
 
 print(new)
+
+# 3- SETS
+
+cars = {"reno", "bmw", "audi"}
+
+print(cars)
+
+# new added set
+
+cars.add("bugatti")
+
+print(cars)
+
+# To add items from another set into the current set, use the update() method.
+
+cars2 = {"toyota", "nissan"}
+
+cars.update(cars2)
+
+print(cars)
+
