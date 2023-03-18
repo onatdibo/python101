@@ -87,3 +87,19 @@ cars.update(cars2)
 
 print(cars)
 
+
+# 4- DICTIONARY
+
+books = {
+    "name": "Edward Snowden",
+    "owner": "Hesflay",
+    "year": "1986"
+}
+
+# access the value
+
+print( books.get("name") )
+
+# access the key
+
+print( books.keys() )
