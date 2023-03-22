@@ -32,3 +32,9 @@ a = -1
 
 if a < 0:
   raise Exception("Sorry, no numbers below zero") # To throw (or raise) an exception, use the raise keyword.
+
+
+b = "hello"
+
+if not type(b) is int:
+  raise TypeError("Only integers are allowed")
