@@ -8,21 +8,29 @@ print(20)
 print(20.4)
 
 # list
-["banana", "apple", "cherry"]
-
-# tupple 
-("banana", "apple", "cherry")
-
-# range
-range(6)
-
-# dict
-{"modelName": "volvo", "year": 2023}
-
-# set
-x = {"banana", "apple", "cherry"}
-
-# bool
-True
+x = ["banana", "apple", "cherry"]
 
 print(x)
+
+# tupple 
+y = ("banana", "apple", "cherry")
+
+# range
+z = range(6)
+
+print(z)
+
+# dict
+a =  {"modelName": "volvo", "year": 2023}
+
+print(a)
+
+# set
+b = {"banana", "apple", "cherry"}
+
+print(b)
+
+# bool
+c = True
+
+print(c)
