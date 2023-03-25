@@ -23,7 +23,7 @@ y.write("Hesflay ") # prints it into the file
 
 # create file
 
-z = open("newFile.txt", "x")
+z = open("newFile.txt", "x") # "x" = create
 
 z.write("Created new file.")
 
