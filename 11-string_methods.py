@@ -33,10 +33,9 @@ print(a.upper())
 
 b = ["apple", "banana", "cherry"] # per : appendices
 
-c = ":".join(b)
+c = "-".join(b)
 
 print(c)
-
 
 
 # Details : https://www.w3schools.com/python/python_ref_string.asp

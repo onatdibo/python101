@@ -4,7 +4,7 @@
 
 | Day | Concept | Summary | Completion |
 | ------ | ------ | ------ | ------ |
-| 1 | Hello World | Learn how to output basic texts. | ✔ |
+| 1 | Hello World | Learn how to output basic texts. ( 01-hello_world.py ) | ✔ |
 | 1 | Data Types | Learn about variables and about the different data types. | ✔ |
 | 1 | Operators | Use operators to perform actions with / on data and objects. | ✔ |
 | 2 | User Input | Accept user input during runtime. | ✔ |
