@@ -7,13 +7,13 @@ except NameError:
 
 
 try:
-    print(y)
+    print(x)
 except:
     print("error")  # executed this blog, because x not defined
 
 
 try:
-    print(z)
+    print(x)
 except NameError:  # NameError Triggered when trying to reach an undefined variable name
     print("error")  # executed this blog
 
