@@ -28,7 +28,7 @@ finally:
 
 a = -1
 
-# Raise an exception
+# Raise an exception and TypeError
 
 if a < 0:
   raise Exception("Sorry, no numbers below zero") # To throw (or raise) an exception, use the raise keyword.
