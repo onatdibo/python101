@@ -1,3 +1,6 @@
+# Details : https://www.w3schools.com/python/python_ref_string.asp
+
+
 # capitalize
 
 x = "hesflay"
@@ -38,4 +41,3 @@ c = "-".join(b)
 print(c)
 
 
-# Details : https://www.w3schools.com/python/python_ref_string.asp
